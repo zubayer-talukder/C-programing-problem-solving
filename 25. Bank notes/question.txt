@@ -1,0 +1,2 @@
+Write a C program to read an amount (integer value) and
+ break the amount into the smallest possible number of bank notes.
