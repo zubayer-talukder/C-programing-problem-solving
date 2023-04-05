@@ -1,4 +1,4 @@
-//this program will show you multipication  times Table series
+//this program will show you multipication times Table series
 
 
 #include<stdio.h>
