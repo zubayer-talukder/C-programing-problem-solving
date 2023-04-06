@@ -7,7 +7,7 @@ int main()
     scanf("%d",&n);
 
     fibo=first+second;
-    printf("Fibonnaccci series:%d,%d,",first,second);
+    printf("Fibonnaccci series:%d,%d,",first,);
     while(fibo<=n)
     {
         printf("%d,",fibo);
