@@ -9,7 +9,7 @@ int main()
     for(x=0;x<n;x++){
         scanf("%d",&array[x]);
     }
-    array[0]>largest;
+    array[0]=largest;
 
     for(x=0;x<n;x++){
         if(array[x]>largest){
