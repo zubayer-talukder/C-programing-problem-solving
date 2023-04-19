@@ -8,4 +8,4 @@ Here you can easily find  C programme code and you can also find the result in p
 if you find any kind of problem please feel free to inform me. on facebook 
 
 
-m.me/zubayer.000
+www.m.me/zubayer.000
